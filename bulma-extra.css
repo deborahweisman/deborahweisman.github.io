@@ -1,0 +1,7 @@
+.bd-notification {
+    border-radius: .375em;
+    font-weight: 600;
+    padding: 1.25rem 0;
+    position: relative;
+    text-align: center;
+}
